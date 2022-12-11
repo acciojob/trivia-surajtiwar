@@ -1,2 +1,8 @@
-
 /* Your CSS Code here. */
+
+
+.markdown-body img {
+    max-width: 100%;
+    box-sizing: initial;
+    background-color: #fff;
+}
